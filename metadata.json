@@ -1,0 +1,6 @@
+{
+  "name": "Mini Python IDE",
+  "description": "Mini Python IDE multi-file dengan syntax highlighting ringan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
